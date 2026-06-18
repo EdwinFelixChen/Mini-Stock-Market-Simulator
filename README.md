@@ -1,6 +1,6 @@
 # Mini Stock Market Simulator 📈
 
-A lightweight, high-performance full-stack stock trading simulator. This project was built as a focused MVP (Minimum Viable Product) to master asynchronous state synchronization, event-driven UI updates, and real-time backend polling.
+A lightweight full-stack stock trading simulator. This project was built as a focused MVP (Minimum Viable Product) to master asynchronous state synchronization, event-driven UI updates, and real-time backend polling.
 
 ---
 
